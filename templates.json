@@ -414,7 +414,7 @@
     "leaveDotGit": false
   },
   "qutebrowser": {
-    "url": "https://github.com/theova/base16-qutebrowser",
+    "url": "https://github.com/pltanton/base16-qutebrowser",
     "rev": "50131cbf2fb360f6d6054514cf3d847419f1dba8",
     "path": "/nix/store/px4q76g2i6039w65rb3ck4h0f7fz79rs-base16-qutebrowser",
     "sha256": "023rphyp56v0rr8aknpn20s0j55qalswfmcy7sszgn0wd161jdfg",
